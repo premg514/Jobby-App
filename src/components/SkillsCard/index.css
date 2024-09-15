@@ -1,0 +1,8 @@
+.jobList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 90vw;
+}
